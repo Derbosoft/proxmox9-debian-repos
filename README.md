@@ -6,7 +6,7 @@ Script Bash pour remplacer les dépôts **entreprise** de Proxmox par les dépô
 
 Sur votre serveur Proxmox :
 ```bash
-wget https://raw.githubusercontent.com/votre-nom/proxmox-debian-repos/main/proxmox-debian-repos.sh
+wget https://raw.githubusercontent.com/Derbosoft/proxmox-debian-repos/main/proxmox-debian-repos.sh
 chmod +x proxmox-debian-repos.sh
 ./proxmox-debian-repos.sh
 
